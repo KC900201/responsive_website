@@ -255,6 +255,11 @@ pre {
     font-weight: bold;
 }
 
+.hidden {
+    visibility: hidden;
+    height: 0;
+}
+
 
 /* Footer */
 .footer .social a {
